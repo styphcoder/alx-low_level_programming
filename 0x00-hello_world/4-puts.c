@@ -2,6 +2,8 @@
 /**
  * main - Entry point
  *
+ * puts - Fonction point
+ *
  * Return : Always 0 (success)
  */
 
