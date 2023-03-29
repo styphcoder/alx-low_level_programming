@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _strlen - return the length of a string.
+ * *_strcat - concatenates two strings.
  * @dest: first string.
  * @src: second string.
  * Return: concatenated string.
